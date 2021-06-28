@@ -49,4 +49,4 @@ client.on('message', message => {
   }
 });
 
-client.login('ODQzMDA2NDQzNDY3NTcxMjEw.YJ9k7g.d4k3cg_V28t0c9rbZCD_MKGVDJc');
+client.login(require('./token.json').token);
