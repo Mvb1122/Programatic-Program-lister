@@ -1,0 +1,7 @@
+{
+  "invite": "https://discord.com/api/oauth2/authorize?client_id=762674963697238067&permissions=8&redirect_uri=https%3A%2F%2Fdiscordapp.com%2Foauth2%2Fauthorize&scope=bot",
+  "github": "https://github.com/Mvb1122/Halloweener",
+  "name": "Halloweener",
+  "purpose": "Originally just a Halloween event project for Cult of Bloaf, this bot later developed into a jojo bot, which promptly got tossed aside.",
+  "thumb": "https://cdn.discordapp.com/app-icons/762674963697238067/9548d6ab8113d5056d3bb6d1dd20bdd8.png?size=256"
+}

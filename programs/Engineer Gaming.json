@@ -1,0 +1,6 @@
+{
+  "invite": "https://discord.com/api/oauth2/authorize?client_id=799118924700450836&permissions=3211264&scope=bot",
+  "name": "Engineer Gaming",
+  "purpose": "A simple bot, just type \"e\" in chat and it'll join your voice channel. f to disconnect.",
+  "thumb": "https://cdn.discordapp.com/app-icons/799118924700450836/20f45416684ae2fa95c70a4d99c0a5a5.png?size=256"
+}

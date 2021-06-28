@@ -1,0 +1,7 @@
+{
+  "invite": "https://discord.com/api/oauth2/authorize?client_id=843006443467571210&permissions=75776&scope=bot",
+  "replit": "https://replit.com/@mb1122/Programatic-Program-lister",
+  "name": "Programatic Program lister",
+  "purpose": "Create the embeds that you're viewing now. Say, \"update\" in chat and it will update.",
+  "thumb": "https://cdn.discordapp.com/app-icons/843006443467571210/902c57b1b746c7aa53871a321f1bf4b3.png?size=256"
+}
