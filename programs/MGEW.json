@@ -3,5 +3,5 @@
   "invite": "https://discord.com/api/oauth2/authorize?client_id=817226079831588915&permissions=116736&scope=bot",
   "github": "https://github.com/Mvb1122/monster-girl-wiki-bot",
   "name": "Monster Girl Encyclopedia Wiki Bot",
-  "purpose": "To catalogue and review every MG on the wiki."
+  "purpose": "To catalogue and review every MG on the wiki.\nUpdate: This bot has now hit its EOS, as I no longer care. You can push to the github if you want to make reviews, just let me know and I'll download them."
 }

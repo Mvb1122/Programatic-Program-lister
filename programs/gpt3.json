@@ -1,5 +1,6 @@
 {
   "name": "GPT 3 Bot",
-  "purpose": "Developed using OpenAI's Curie model (because I was too cheap for Davinci), this bot can answer _**Any**_ question. Unfortunately, it's private, since GPT3 costs money.",
-  "thumb": "https://cdn.discordapp.com/app-icons/845159393494564904/5877d62bbb37ffd117501aee72053b47.png?size=256"
+  "purpose": "Developed using OpenAI's Davinci model, this bot can answer _**Any**_ question. Unfortunately, it's private, since GPT3 costs money.",
+  "thumb": "https://cdn.discordapp.com/app-icons/845159393494564904/5877d62bbb37ffd117501aee72053b47.png?size=256",
+  "invite": "Contact me if you want access, I can set you up with a demo."
 }

@@ -1,6 +1,7 @@
 {
     "github": "https://github.com/Mvb1122/Java-Projects/tree/main/FilesApp/Strigoi",
     "name": "Strigoi",
-    "purpose": "An Android app for sharing Documents, Images, or Comics. This is currently in development.",
-    "thumb": "https://raw.githubusercontent.com/Mvb1122/Java-Projects/main/FilesApp/Strigoi/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    "purpose": "An Android and Web app for viewing short, textual stories. It's completely developed and is now feature-complete with no plans of updating beyond patches.",
+    "thumb": "https://raw.githubusercontent.com/Mvb1122/Java-Projects/main/FilesApp/Strigoi/app/src/main/res/mipmap-hdpi/ic_launcher.png",
+    "website": "https://ihaveawebsite.tk/"
   }
