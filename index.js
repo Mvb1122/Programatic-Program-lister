@@ -6,7 +6,7 @@ function getEmbedOf(object){
   console.log("\n");
   const embed = new Discord.MessageEmbed()
 	.setColor(`#000000`)
-	.setAuthor('Mb1122', 'https://mge-reviews.tk/logo_small_inverted.png', 'https://mge-reviews.tk/')
+	.setAuthor('Micah', 'https://ihaveawebsite.tk/logo_small_inverted.png', 'https://ihaveawebsite.tk/')
   .setTimestamp()
 	.setFooter('Last updated:');
   if (object.name) {
@@ -42,7 +42,7 @@ client.on('message', message => {
     // throw error because it's meant to delete two messages.
     message.channel.bulkDelete(99);
     fs.readdirSync('./programs/').forEach(file => {
-      const fileContents =require(`./programs/${file}`);
+      const fileContents = require(`./programs/${file}`);
       message.channel.send(getEmbedOf(fileContents));
     });
     // message.channel.send(output);
